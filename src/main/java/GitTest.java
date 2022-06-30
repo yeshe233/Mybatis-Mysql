@@ -7,6 +7,6 @@ public class GitTest {
         System.out.println("加油");
         System.out.println("叶蛇想要找工作");
         System.out.println("万名敬仰");
-
+        System.out.println("成功"); 
     }
 }
